@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 29d4510cb6b581142bb318f3017387cd
+  - enabled: 1
+    path: Assets/Scenes/Jogo1.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Jogo2.unity
+    guid: bb62557b6a4225f4982455a249732251
+  - enabled: 1
+    path: Assets/Scenes/jogo3.unity
+    guid: 1fa6837b6fac8864f8d0e6060420e64a
+  - enabled: 1
+    path: Assets/Scenes/Jogo4.unity
+    guid: 07f9d66dd55fdc74b8e36d863fe23694
+  - enabled: 1
+    path: Assets/Scenes/Tela_Inicial.unity
+    guid: 53e7999f2c6297a49b9efbd891920d47
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7755a04af3b2810409162dfe8ead93ab, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 3c4f0448c36821145846bddd553a6056, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 14b08a013fb6a974fadbbf8f967f1177, type: 2}
